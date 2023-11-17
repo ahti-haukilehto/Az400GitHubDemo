@@ -4,6 +4,7 @@ using System.Diagnostics;
 
 namespace Az400GitHubDemo.Controllers
 {
+  //just a small change
   public class HomeController : Controller
   {
     private readonly ILogger<HomeController> _logger;
